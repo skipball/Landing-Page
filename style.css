@@ -1,0 +1,43 @@
+.logo {
+    font-family: verdana,sans-serif;
+    color: greenyellow;
+    background-color: rgb(105, 143, 175);
+    font-size: 20px;
+    font-weight: 500px;
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    margin: 0;    
+}
+
+    .links {
+        display: flex;
+        color: rgb(181, 134, 134);
+        justify-content: flex-end;
+        align-items: center;
+        gap: 15px;
+        margin: 0;
+    }
+
+    h1 {
+        padding-left: 75px;
+        
+    }
+    a:link {
+        color: greenyellow;
+        font-family: verdana, sans-serif;
+        font-weight: bold;
+    }
+    p {
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+    }
+    
+    .images {
+        display: flex;
+        justify-content: flex-end;
+        
+    }
+
